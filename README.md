@@ -1,2 +1,2 @@
 # Octave
-Scripts and function for Octave
+Scripts and functions for Octave
